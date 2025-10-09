@@ -6,5 +6,8 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (InsightLite)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="SportsAnalysis" />
+    <orderEntry type="module" module-name="CoffeeSales" />
+    <orderEntry type="module" module-name="PythonProject" />
   </component>
 </module>
